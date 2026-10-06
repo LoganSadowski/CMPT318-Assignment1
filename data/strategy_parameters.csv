@@ -1,0 +1,4 @@
+strategy,p_incident,response_min,response_mode,response_max,outage_p50,outage_p90,annual_control_cost
+current,0.18,20000,40000,80000,4.0,10.0,0
+prevention,0.07,20000,40000,80000,4.0,10.0,15000
+recovery,0.18,15000,25000,45000,1.0,2.5,15000

@@ -1,0 +1,2 @@
+annual_budget_cad,incident_loss_threshold_cad,annual_exceedance_limit,downtime_cost_cad_per_day,secondary_cost_cad,secondary_probability,stress_long_outage_probability,stress_secondary_probability_high
+20000,400000,0.01,30000,300000,0.2,0.1,0.8
